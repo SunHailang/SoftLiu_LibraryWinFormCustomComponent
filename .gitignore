@@ -1,0 +1,17 @@
+#####################
+
+/Out/SoftLiu_LibraryWinFormCustomComponent.exe
+/Out/SoftLiu_VSoftLiu_LibraryWinFormCustomComponentSMainMenuTools.pdb
+/Out/SoftLiu_VSSoftLiu_LibraryWinFormCustomComponentMainMenuTools.vshost.exe.manifest
+/SoftLiu_LibraryWinFormCustomComponent/SoftLiu_LibraryWinFormCustomComponent.csproj.user
+
+
+
+#####################
+/Library/
+.vs/
+/Temp/
+/Out/Resources/AssetBundles/
+/SoftLiu_LibraryWinFormCustomComponent/bin/
+/SoftLiu_LibraryWinFormCustomComponent/obj/
+/Out/Resources/AssetBundles/
