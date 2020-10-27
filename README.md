@@ -1,0 +1,2 @@
+# SoftLiu_LibraryWinFormCustomComponent
+create WinForm Custom Component Library
